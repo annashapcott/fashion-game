@@ -13,5 +13,5 @@ Web browser - link will open up in Scratch webpage or Scratch desktop applicatio
 Link to Scratch project [here](https://scratch.mit.edu/projects/725522286/) 
 
 
-#### Inspiration
+### Inspiration
 This game is based on Lemonerdy's [Tutorial](https://www.youtube.com/watch?v=pQErdUqmNlA)

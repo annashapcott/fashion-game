@@ -10,9 +10,8 @@ Fashion Dilemma! is created with:
 ## Launch
 Web browser - link will open up in Scratch webpage or Scratch desktop application if the user has it downloaded (however, this is not necessary to play or alter the game). 
 
-```
 Link to Scratch project [here](https://scratch.mit.edu/projects/725522286/) 
-```
+
 
 #### Inspiration
-This game is based on Lemonerdy's [Tutorial] (https://www.youtube.com/watch?v=pQErdUqmNlA)
+This game is based on Lemonerdy's [Tutorial](https://www.youtube.com/watch?v=pQErdUqmNlA)

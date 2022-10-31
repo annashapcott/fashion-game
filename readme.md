@@ -1,7 +1,7 @@
 # Fashion Dilemma!
 
 ## Introduction
-This is a simple fashion game created on Scratch. It is designed to mimic when people are choosing between two outfits, and need to wear both to decide. In the game, two outfits are picked by users, before they are both displayed. Users then can vote on the one they prefer, and this is the winner!
+This is a simple fashion game created on Scratch. It is designed to mimic when people are choosing between two outfits, and need to wear both to decide. In the game, two outfits are picked by users, before they are both displayed. Users then can vote on the one they prefer, and that outfit is the winner!
 
 ## Technologies
 Fashion Dilemma! is created with:

@@ -34,6 +34,6 @@ Scratch 3.0
 Web browser - link will open up in Scratch webpage or Scratch desktop application if the user has it downloaded (however, this is not necessary). 
 
 
-Link to Scratch project: [here](https://scratch.mit.edu/projects/725522286/) 
+Link to Scratch project [here](https://scratch.mit.edu/projects/725522286/) 
 
 

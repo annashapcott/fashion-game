@@ -22,15 +22,15 @@ To run this project, install it locally using npm:
 ## Titles and internal titles
 [fashion game]
 
-##Introduction
+## Introduction
 [the project's aim]
 
 
-##Technologies
+## Technologies
 Scratch 3.0
 
 
-##Launch
+## Launch
 Web browser - link will open up in Scratch webpage or Scratch desktop application if the user has it downloaded (however, this is not necessary). 
 
 

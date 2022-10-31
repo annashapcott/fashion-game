@@ -4,7 +4,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## General info
+# General info
 This project is simple Lorem ipsum dolor generator.
 	
 ## Technologies
